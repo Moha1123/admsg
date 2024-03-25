@@ -22,7 +22,7 @@ form.addEventListener('submit', async (event) => {
         inline: false
       },
       {
-        name: 'Other Message',
+        name: 'Phone Number',
         value: otherMessage,
         inline: false
       },
